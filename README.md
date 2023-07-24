@@ -1,2 +1,2 @@
-# Vehhicle-Predictions
-Data Scince Projects
+# Data Science / Machine Learning Project
+Vehicle Price Prediction
